@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Md Rasel 
+# Hi there 👋, my name is Mohammad Rasel 
 ## Web Developer 
 
 
